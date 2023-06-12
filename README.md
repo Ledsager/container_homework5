@@ -30,3 +30,5 @@ rust@GB:~$
 ![node1](https://github.com/Ledsager/container_homework5/blob/main/node1.PNG)
 ![node2](https://github.com/Ledsager/container_homework5/blob/main/node2.PNG)
 ![node3](https://github.com/Ledsager/container_homework5/blob/main/node3.PNG)
+
+Якупов Р.А. Урок 5. Docker Compose и Docker Swarm

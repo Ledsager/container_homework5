@@ -7,7 +7,6 @@
 Задание 2*:
 1) создать кластер и мастер и слейв ноды
 2) задеплоить на ноду несколько экземляров какого0нибудь контейнера, например nginx
-3) обязательно проверить и зафиксировать результаты, чтобы можно было выслать преподавателю для проверки
 
 ```
 rust@GB:~$ sudo docker ps -a
@@ -27,3 +26,7 @@ rust@GB:~$
 
 ```
 ![adminer](https://github.com/Ledsager/container_homework5/blob/main/adminer.PNG)
+
+![node1](https://github.com/Ledsager/container_homework5/blob/main/node1.PNG)
+![node2](https://github.com/Ledsager/container_homework5/blob/main/node2.PNG)
+![node3](https://github.com/Ledsager/container_homework5/blob/main/node3.PNG)
